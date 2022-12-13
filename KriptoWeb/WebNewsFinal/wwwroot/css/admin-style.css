@@ -1,0 +1,56 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background: #000;
+    background-image: url(/img/admin-ic-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 45px;
+}
+.table {
+    color: #fff !important;
+}
+.admin_avatar {
+    display: grid;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+    justify-content: center;
+}
+.admin_avatar img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.admin_links {
+    margin-top: 50px;
+    display: grid;
+    text-align: center;
+}
+.admin_links a {
+    padding: 10px 20px;
+    background: #333;
+    margin: 7px;
+    border-radius: 18px;
+    color: #fff;
+}
+.admin-page-title {
+    color: #fff;
+}
+
+.admin-form-wrapper {
+    border-radius: 15px;
+    background: rgba(0,0,0,.2);
+    padding: 20px;
+    color: #fff;
+    backdrop-filter: blur(38px);
+}
+
+.admin-text-area {
+    min-height: 200px;
+}
+.admin-img {
+    max-height: 301px;
+}

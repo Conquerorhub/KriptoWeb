@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApyyetDM9v0Ka/FOZqx/AsgAAAAACAAAAAAAQZgAAAAEAACAAAAAFlwQ+8zaAYmacx77dkBbu99eTUietNNMmCsP0E65BZAAAAAAOgAAAAAIAACAAAACcy9uHbULc97j9CbAU3l0A/eUj5yACE+C9hrK10XdoL4AAAAAGFpQSho6BtQzQNlng2IrAbMLYEl3Dtqr1lt4QJJxoZAy0vHVmGt7FTPhFRttMXYbReFLzB/F2bnxOLolhXWZhrBpF+ysvtYlb0mGucF56UvIjSBczZ1c/VzGGqOkyGcec+9qyJNq/nzBw7cxkCTeboik21Q4XRPpzGYOPEV7iY0AAAAD+uUoxXfc/Eu1uOHdrYcNiyqF8SaEUD+LAQgATP3NlSDliMW9xRdaZZaZZDYxpXbFHPO1W3+L3DUpckYiE7pow</EncryptedPassword>
+    <History>False|2022-01-17T00:57:59.3946574Z;False|2022-01-17T03:53:45.7550099+03:00;False|2022-01-17T03:39:27.4562167+03:00;False|2022-01-17T03:38:38.1921063+03:00;False|2022-01-17T03:38:22.9247602+03:00;False|2022-01-17T03:38:02.0866655+03:00;False|2022-01-17T03:37:33.5755823+03:00;False|2022-01-17T03:37:20.7969727+03:00;False|2022-01-17T03:36:32.0413161+03:00;True|2022-01-17T03:16:13.5510140+03:00;False|2022-01-17T03:14:59.4630153+03:00;True|2022-01-17T02:43:13.9961153+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:haberlerdbserver.database.windows.net,1433;Initial Catalog=Haberler;User Id=admin123@haberlerdbserver;Password=Fatihhan42" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:haberlerdbserver.database.windows.net,1433;Initial Catalog=Identity;User Id=admin123@haberlerdbserver;Password=Fatihhan42" />
+  </ItemGroup>
+</Project>

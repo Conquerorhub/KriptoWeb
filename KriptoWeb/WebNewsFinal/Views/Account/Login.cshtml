@@ -1,0 +1,72 @@
+﻿@model LoginModel
+@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BorsaHaber | Admin</title>
+    <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #000;
+            background-image: url(/img/login-wallpaper.png);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            color: #fff;
+        }
+        body, html {
+            height: 100%;
+        }
+        .form_wrapper {
+            display: grid;
+            place-items: center;
+            grid-template-columns: 400px 400px;
+            column-gap: 40px;
+            justify-content: center;
+            height: 100%;
+        }
+        .form_wrapper__form {
+            width: 100%;
+            background: rgba(0,0,0,.2);
+            padding: 20px !important;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+        .btn_submit {
+            float: right;
+            background: #333;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form_wrapper">
+        <div class="form_wrapper__text">
+            <h2>BorsaHaber</h2>
+            <p>Lorem Ipsum dolar sit amet. Lorem Ipsum dolar sit amet</p>
+            <p style="font-size: 12px;">
+                Giriş bilgileri<br />
+                Kullanıcı adı: Admin<br />
+                Şifre: Secret123$
+            </p>
+        </div>
+        <div class="m-1 p-1 form_wrapper__form">
+            <div class="text-danger" asp-validation-summary="All"></div>
+            <form asp-action="Login" asp-controller="Account" method="post">
+                <input type="hidden" asp-for="ReturnUrl" />
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <div asp-validation-for="Name" class="text-danger"></div>
+                    <input asp-for="Name" class="form-control" value="Admin"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <div asp-validation-for="Password" class="text-danger"></div>
+                    <input asp-for="Password" type="password" class="form-control" value="Secret123$" />
+                </div>
+                <button class="btn btn-primary btn_submit" type="submit">Log In</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

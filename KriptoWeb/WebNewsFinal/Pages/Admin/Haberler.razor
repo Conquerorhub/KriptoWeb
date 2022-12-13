@@ -1,0 +1,67 @@
+﻿@page "/admin/haberler"
+@page "/admin"
+@inherits OwningComponentBase<WebNewsFinal.Models.DataContext>
+
+<table class="table table-sm table-striped table-bordered table-dark">
+    <thead>
+        <tr>
+            <th>ID</th><th>Başlık</th>
+            <th>Kategori</th><th>Aksiyon</th>        </tr>
+    </thead>
+    <tbody>
+        @if (HaberData?.Count() > 0) {
+            @foreach (Haber p in HaberData) {
+                <tr>
+                    <td>@p.HaberId</td>
+                    <td>@p.baslik</td>
+                    <td>@Repository.Kategoriler.Where(x => x.KategoriId == p.KategoriId).Select(x => x.baslik).Single()</td>
+                    
+                    <td>
+                        <NavLink class="btn btn-info btn-sm"
+                                 href="@GetDetailsUrl(p.HaberId)">
+                            Detay
+                        </NavLink>
+                        <NavLink class="btn btn-warning btn-sm"
+                                 href="@GetEditUrl(p.HaberId)">
+                            Düzenle
+                        </NavLink>
+                        <button class="btn btn-danger btn-sm"
+                                 @onclick="@(e => DeleteProduct(p))">
+                            Sil
+                        </button>
+                    </td>
+                </tr>
+            }
+        } else {
+            <tr>
+                <td colspan="5" class="text-center">Haber Yok</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<NavLink class="btn btn-dark" href="/admin/haberler/create">Haber Ekle</NavLink>
+
+@code {
+
+    public WebNewsFinal.Models.DataContext Repository => Service;
+
+    public IEnumerable<Haber> HaberData { get; set; }
+
+    protected async override Task OnInitializedAsync() {
+        await UpdateData();
+    }
+
+    public async Task UpdateData() {
+        HaberData = await Repository.Haberler.ToListAsync();
+    }
+
+    public async Task DeleteProduct(Haber p) {
+        Repository.Haberler.Remove(p);
+        Repository.SaveChanges();
+        await UpdateData();
+    }
+
+    public string GetDetailsUrl(long id) => $"/admin/haberler/details/{id}";
+    public string GetEditUrl(long id) => $"/admin/haberler/edit/{id}";
+}

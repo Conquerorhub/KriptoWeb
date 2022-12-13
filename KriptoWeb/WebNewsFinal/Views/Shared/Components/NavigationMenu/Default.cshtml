@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Kategori>
+
+
+
+@foreach (var category in Model)
+{
+<li class="widget-popular-posts__item">
+    
+        <div class="widget-popular-posts__entry">
+            <a class="entry__meta-category" asp-action="Haberler" asp-controller="Main" asp-route-cateId="@category.KategoriId">@category.baslik</a>
+        </div>
+    
+</li>
+ }

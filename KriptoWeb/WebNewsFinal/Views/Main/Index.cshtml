@@ -1,0 +1,79 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<WebNewsFinal.Models.Haber>
+
+@{ Layout = "~/Views/Shared/_MainLayout.cshtml"; }
+
+
+<section class="section-wrap main-content">
+    <div class="container">
+        <div class="row">
+
+            <!-- Posts -->
+            <div class="col-lg-8 blog__content mb-30">
+
+                <!-- slider start-->
+                <div class="entry__img-holder">
+                    <div id="owl-single-post-gallery" class="owl-carousel owl-theme owl-carousel--dots-inside owl-carousel--autoplay-true">
+                        @foreach (var item in Model) { 
+                            <img src="@item.kapak_foto" alt="" class="entry__img">
+                        }
+                    </div>
+                </div>
+
+                <!-- Hot News -->
+                <section class="section">
+                    <h3 class="section-title h2">Son Haberler</h3>
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-md-6">
+                                <article class="entry">
+                                    <div class="entry__img-holder">
+                                        <a asp-action="Details" asp-route-id="@item.HaberId" asp-controller="Main" >
+                                            <div class="thumb-container thumb-75">
+                                                <img data-src="@item.kapak_foto" src="@item.kapak_foto" class="entry__img lazyload" alt="" />
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="entry__body">
+                                        <div class="entry__header">
+                                            <h2 class="entry__title entry__title--medium">
+                                                <a asp-action="Details" asp-route-id="@item.HaberId" asp-controller="Main" >@item.baslik</a>
+                                            </h2>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                        }
+                        
+                    </div>
+                </section> <!-- end hot news -->
+
+            </div> <!-- end posts -->
+            <!-- Sidebar -->
+            <aside class="col-lg-4 sidebar sidebar--right">
+
+                <!-- Widget Crypto Rates -->
+                <div class="widget widget-crypto-rates">
+                    <h4 class="widget-title">Kripto Fiyatları</h4>
+                    <div class="crypto-rates" id="crypto-rates" data-currency="usd" data-limit="10"></div>
+                </div>
+
+
+                <!-- Widget Popular Posts -->
+                <div class="widget widget-popular-posts">
+                    <h4 class="widget-title">Kategoriler</h4>
+
+                    <ul class="widget-popular-posts__list">
+                      <vc:navigation-menu/>
+                    </ul>
+                </div> <!-- end widget popular posts -->
+
+            </aside> <!-- end sidebar -->
+
+        </div> <!-- end row -->
+    </div> <!-- end container -->
+</section>

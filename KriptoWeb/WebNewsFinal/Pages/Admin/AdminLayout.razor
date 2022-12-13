@@ -1,0 +1,20 @@
+﻿@inherits LayoutComponentBase
+
+<div class="container-fluid">
+    <div class="row p-2">
+        <div class="col-3">
+            <div class="admin_avatar">
+                <img src="/img/admin-avatar.png" alt="Admin avatar" />
+                <span>Admin</span>
+            </div>
+            <div class="admin_links">
+                <a href="/admin">Haber Listesi</a>
+                <a href="/admin/haberler/create">Haber Ekle</a>
+                <a href="/account/logout">Çıkış Yap</a>
+            </div>
+                    </div>
+        <div class="col">
+            @Body
+        </div>
+    </div>
+</div>

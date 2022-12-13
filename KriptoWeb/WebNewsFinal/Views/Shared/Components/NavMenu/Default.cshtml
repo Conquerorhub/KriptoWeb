@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Kategori>
+
+<nav class="flex-child nav__wrap d-none d-lg-block">
+    <ul class="nav__menu">
+
+        <li class="">
+            <a asp-action="Index" asp-controller="Main">Ana sayfa</a>
+        </li>
+        <li class="nav__dropdown">
+            <a asp-action="Haberler" asp-controller="Main">Haberler</a>
+            <ul class="nav__dropdown-menu">
+                @foreach (var item in Model)
+                {
+    <li><a asp-action="Haberler" asp-route-cateId="@item.KategoriId" asp-controller="Main">@item.baslik</a></li>
+}
+            </ul>
+        </li>
+        <li class="">
+            <a href="/admin">Admin</a>
+        </li>
+
+
+
+
+
+    </ul> <!-- end menu -->
+</nav> <!-- end nav-wrap -->

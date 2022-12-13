@@ -1,0 +1,593 @@
+﻿++Solution 'WebNewsFinal' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebNewsFinal.sln
+++WebNewsFinal
+i:{00000000-0000-0000-0000-000000000000}:WebNewsFinal
+++Connected Services 
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1695
+++Dependencies
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1694
+++Properties
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\
+++wwwroot
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\
+++Components
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\components\
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\components\
+++Controllers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\
+++Infrastructure
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\infrastructure\
+++Migrations
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\
+++Models
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\
+++Pages
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\
+++Views
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\
+++Account
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\account\
+++Login.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\account\login.cshtml
+++Home
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\home\
+++Index.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\home\index.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\main\index.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\index.cshtml
+++Privacy.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\home\privacy.cshtml
+++Main
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\main\
+++Detail.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\main\detail.cshtml
+++Haberler.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\main\haberler.cshtml
+++Shared
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\
+++NavigationMenu
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\components\navigationmenu\
+++NavMenu
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\components\navmenu\
+++_Layout.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\_layout.cshtml
+++_MainLayout.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\_mainlayout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\_viewimports.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\_viewstart.cshtml
+++appsettings.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\appsettings.json
+++ÖĞRENCİLER.txt
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\öğrencİler.txt
+++Program.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\program.cs
+++Startup.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\startup.cs
+++Azure SQL Database (Haberler)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1724
+++Azure SQL Database (Identity)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1725
+++Secrets.json (Local)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1723
+++SignalR
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1726
+++Analyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:analyzers
+++Frameworks
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:frameworks
+++Packages
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:packages
+++PublishProfiles
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\publishprofiles\
+++ServiceDependencies
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\
+++launchSettings.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\launchsettings.json
+++serviceDependencies.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies.json
+++css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\
+++fonts
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\
+++img
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\
+++js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\
+++lib
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\
+++NavigationMenuViewComponent.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\components\navigationmenuviewcomponent.cs
+++NavMenuViewComponent.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\components\navmenuviewcomponent.cs
+++AccountController.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\accountcontroller.cs
+++HaberIcerıkController.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\habericerıkcontroller.cs
+++HomeController.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\homecontroller.cs
+++MainController.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\maincontroller.cs
+++ValuesController.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\controllers\valuescontroller.cs
+++PageLinkTagHelper.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\infrastructure\pagelinktaghelper.cs
+++AppIdentityDb
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\appidentitydb\
+++20220115152130_BaslangicMigrate.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\20220115152130_baslangicmigrate.cs
+++DataContextModelSnapshot.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\datacontextmodelsnapshot.cs
+++ViewModels
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\viewmodels\
+++AppIdentityDbContext.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\appidentitydbcontext.cs
+++DataContext.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\datacontext.cs
+++EFHaberRepository.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\efhaberrepository.cs
+++EFKategoriRepository.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\efkategorirepository.cs
+++ErrorViewModel.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\errorviewmodel.cs
+++Haber.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\haber.cs
+++IdentitySeedData.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\identityseeddata.cs
+++IHaberRepository.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\ihaberrepository.cs
+++IKategoriRepository.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\ikategorirepository.cs
+++Kategori.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\kategori.cs
+++Kullanici.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\kullanici.cs
+++SeedData.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\seeddata.cs
+++Admin
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\
+++Default.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\components\navigationmenu\default.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\views\shared\components\navmenu\default.cshtml
+++appsettings.Development.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\appsettings.development.json
+++Your application is making use of SignalR. For environments that need to scale we strongly recommend adding a dependency on Azure SignalR Service.
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1727
+++Microsoft.AspNetCore.Analyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\microsoft.netcore.app
+++Azure.Extensions.AspNetCore.Configuration.Secrets (1.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1709
+++Azure.Identity (1.2.2)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1711
+++Microsoft.AspNet.WebApi.Core (5.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1713
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1710
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1712
+++Microsoft.EntityFrameworkCore (5.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1707
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1708
+++Microsoft.EntityFrameworkCore.Tools (5.0.0)
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:>1714
+++WebNewsFinal20220117002807 - Web Deploy.pubxml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\publishprofiles\webnewsfinal20220117002807 - web deploy.pubxml
+++local
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\local\
+++WebNewsFinal20220117002807 - Web Deploy
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\webnewsfinal20220117002807 - web deploy\
+++serviceDependencies.local.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies.local.json
+++serviceDependencies.WebNewsFinal20220117002807 - Web Deploy.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies.webnewsfinal20220117002807 - web deploy.json
+++owl-carousel
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\owl-carousel\
+++admin-style.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\admin-style.css
+++bootstrap.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\bootstrap.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css
+++font-icons.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\font-icons.css
+++style.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\style.css
+++ui-icons.eot
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\ui-icons.eot
+++ui-icons.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\ui-icons.svg
+++ui-icons.ttf
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\ui-icons.ttf
+++ui-icons.woff
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\ui-icons.woff
+++ui-icons.woff2
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\fonts\ui-icons.woff2
+++blog
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\
+++coins_icons
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\
+++admin-avatar.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\admin-avatar.png
+++admin-ic-bg.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\admin-ic-bg.png
+++apple-touch-icon-114x114.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\apple-touch-icon-114x114.png
+++apple-touch-icon-72x72.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\apple-touch-icon-72x72.png
+++cloud-wp.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\cloud-wp.jpg
+++dropdown.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\dropdown.png
+++empty.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\empty.png
+++favicon.ico
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\favicon.ico
+++favicon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\favicon.png
+++login-wallpaper.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\login-wallpaper.png
+++logo.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\logo.png
+++logo@2x.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\logo@2x.png
+++Thumbs.db
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\thumbs.db
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\owl-carousel\thumbs.db
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\thumbs.db
+++bootstrap.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\bootstrap.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js
+++easing.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\easing.min.js
+++imagesloaded.pkgd.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\imagesloaded.pkgd.min.js
+++isotope.pkgd.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\isotope.pkgd.min.js
+++jquery.appear.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\jquery.appear.min.js
+++jquery.marquee.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\jquery.marquee.min.js
+++jquery.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\jquery.min.js
+++jquery.sticky-kit.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\jquery.sticky-kit.min.js
+++lazysizes.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\lazysizes.min.js
+++modernizr.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\modernizr.min.js
+++owl-carousel.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\owl-carousel.min.js
+++scripts.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\js\scripts.js
+++font-awesome
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\
+++twitter-bootstrap
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\
+++20220116224338_Insert.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\appidentitydb\20220116224338_insert.cs
+++AppIdentityDbContextModelSnapshot.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\appidentitydb\appidentitydbcontextmodelsnapshot.cs
+++20220115152130_BaslangicMigrate.Designer.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\20220115152130_baslangicmigrate.designer.cs
+++LoginModel.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\viewmodels\loginmodel.cs
+++PageingInfo.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\models\viewmodels\pageinginfo.cs
+++_Imports.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\_imports.razor
+++AdminLayout.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\adminlayout.razor
+++Details.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\details.razor
+++Editor.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\editor.razor
+++Haberler.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\haberler.razor
+++IdentityUsers.cshtml
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\identityusers.cshtml
+++Routed.razor
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\routed.razor
+++mssql1.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\local\mssql1.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\webnewsfinal20220117002807 - web deploy\mssql1.arm.json
+++mssql2.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\local\mssql2.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\webnewsfinal20220117002807 - web deploy\mssql2.arm.json
+++profile.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\webnewsfinal20220117002807 - web deploy\profile.arm.json
+++secrets1.arm.json
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\properties\servicedependencies\webnewsfinal20220117002807 - web deploy\secrets1.arm.json
+++AjaxLoader.gif
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\owl-carousel\ajaxloader.gif
+++grabbing.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\owl-carousel\grabbing.png
+++admin-style.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\admin-style.css.map
+++style.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\css\style.css.map
+++lazyload
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\
+++about.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\about.jpg
+++author.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\author.png
+++comment_1.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\comment_1.jpg
+++comment_2.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\comment_2.jpg
+++comment_3.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\comment_3.jpg
+++featured_post_img.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\featured_post_img.jpg
+++ico_1.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\ico_1.png
+++ico_2.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\ico_2.png
+++ico_3.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\ico_3.png
+++placeholder_386.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\placeholder_386.jpg
+++placeholder_leaderboard.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\placeholder_leaderboard.jpg
+++post_1.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_1.jpg
+++post_1_large.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_1_large.jpg
+++post_10.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_10.jpg
+++post_11.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_11.jpg
+++post_12.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_12.jpg
+++post_2.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_2.jpg
+++post_2_large.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_2_large.jpg
+++post_3.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_3.jpg
+++post_3_large.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_3_large.jpg
+++post_4.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_4.jpg
+++post_4_large.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_4_large.jpg
+++post_5.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_5.jpg
+++post_5_large.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_5_large.jpg
+++post_6.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_6.jpg
+++post_7.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_7.jpg
+++post_8.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_8.jpg
+++post_9.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\post_9.jpg
+++single_post_featured_img.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\single_post_featured_img.jpg
+++video_1.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\video_1.jpg
+++video_2.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\video_2.jpg
+++video_3.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\video_3.jpg
+++bitcoin_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\bitcoin_icon.png
+++bitcoin-cash_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\bitcoin-cash_icon.png
+++bitcoin-gold_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\bitcoin-gold_icon.png
+++cardano_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\cardano_icon.png
+++dash_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\dash_icon.png
+++eos_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\eos_icon.png
+++ethereum_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\ethereum_icon.png
+++ethereum-classic_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\ethereum-classic_icon.png
+++iota_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\iota_icon.png
+++lisk_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\lisk_icon.png
+++litecoin_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\litecoin_icon.png
+++monero_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\monero_icon.png
+++nem_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\nem_icon.png
+++neo_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\neo_icon.png
+++qtum_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\qtum_icon.png
+++ripple_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\ripple_icon.png
+++stellar_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\stellar_icon.png
+++tether_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\tether_icon.png
+++tron_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\tron_icon.png
+++vechain_icon.png
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\coins_icons\vechain_icon.png
+++sprites
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\sprites\
+++webfonts
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\
+++20220116224338_Insert.Designer.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\migrations\appidentitydb\20220116224338_insert.designer.cs
+++IdentityUsers.cshtml.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\identityusers.cshtml.cs
+++Index.cshtml.cs
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\pages\admin\index.cshtml.cs
+++1.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\1.jpg
+++2.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\2.jpg
+++3.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\3.jpg
+++4.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\4.jpg
+++5.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\5.jpg
+++6.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\6.jpg
+++7.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\7.jpg
+++8.jpg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\img\blog\lazyload\8.jpg
+++all.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\all.css
+++brands.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\brands.css
+++fontawesome.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\fontawesome.css
+++regular.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\regular.css
+++solid.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\solid.css
+++svg-with-js.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\svg-with-js.css
+++v4-shims.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\v4-shims.css
+++all.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\all.js
+++brands.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\brands.js
+++conflict-detection.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\conflict-detection.js
+++fontawesome.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\fontawesome.js
+++regular.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\regular.js
+++solid.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\solid.js
+++v4-shims.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\v4-shims.js
+++brands.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\sprites\brands.svg
+++regular.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\sprites\regular.svg
+++solid.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\sprites\solid.svg
+++fa-brands-400.eot
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+++bootstrap.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap.css
+++bootstrap-grid.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css
+++bootstrap.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.js
+++all.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\all.min.css
+++brands.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\brands.min.css
+++fontawesome.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\fontawesome.min.css
+++regular.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\regular.min.css
+++solid.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\solid.min.css
+++svg-with-js.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\svg-with-js.min.css
+++v4-shims.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\css\v4-shims.min.css
+++all.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\all.min.js
+++brands.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\brands.min.js
+++conflict-detection.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\conflict-detection.min.js
+++fontawesome.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\fontawesome.min.js
+++regular.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\regular.min.js
+++solid.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\solid.min.js
+++v4-shims.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\font-awesome\js\v4-shims.min.js
+++bootstrap.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map
+++bootstrap-grid.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map
+++bootstrap.min.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{0baac66d-f4a2-43e5-9b99-8965b03e1395}:c:\users\emre yaz\desktop\webnewsfinal\webnewsfinal\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map
+++1j+ojVNGOMkX9W2+J1iwiGKvifCHpRJInQiIiWcqL2VE9AlokiMlhvRs8g==.png
+++logo - Kopya.png
